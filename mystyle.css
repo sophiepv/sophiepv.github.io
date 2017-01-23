@@ -18,6 +18,8 @@ header {
       background: url('https://lh3.google.com/u/0/d/0B95TLV6s2EohTzhwUTZMTS1hSnc=w1317-h896-iv1');
       background-size: cover;
       color: white;
+	 padding: 10px;
+      background: rgba(0,0,0,0.5);
     }
 	 
       
