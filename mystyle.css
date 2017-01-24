@@ -39,4 +39,6 @@ header {
     }
     
     body { background-color:black;
-          color:white}
+          color:white
+            font-family:'arial'
+}
