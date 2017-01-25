@@ -1,6 +1,6 @@
 header {
       text-align: left;
-      background: url('https://lh3.google.com/u/0/d/0B6VJsSi5VlHGSnQ4SDJMeVhwUkk=w1373-h847-iv1');
+      background: url('https://lh3.google.com/u/0/d/0B6VJsSi5VlHGYm5TSjdVN3poWFk=w1920-h901-iv1');
       background-size: header; 
     
       color: black;
@@ -41,7 +41,7 @@ header {
     }
     
     body { background-color:rgb(254,246,236);
-          color:rgb(192,238,245);
+          color:black;
           font-family: 'arial'
            
 }
