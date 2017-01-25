@@ -1,9 +1,9 @@
 header {
       text-align: left;
-      background: url('https://lh3.google.com/u/0/d/0B6VJsSi5VlHGYm5TSjdVN3poWFk=w1920-h901-iv1');
+      background: url('https://lh3.google.com/u/0/d/0B6VJsSi5VlHGMGstMWZlOG1nR3M=w1373-h847-iv1');
       background-size: header; 
     
-      color: black;
+      color: white;
     }
       
       
@@ -40,8 +40,8 @@ header {
       margin: 0 auto;
     }
     
-    body { background-color:rgb(115,134,120);
-          color:black;
+    body { background-color:rgb(77,93,83);
+          color:white;
           font-family: 'arial'
            
 }
